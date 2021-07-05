@@ -33,7 +33,7 @@
     margin-left: 210px;
     width: 507px;
     position: absolute;
-    
+    border-radius: 8px;
     bottom: -650px;
     transition-property: all;
 }
