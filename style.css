@@ -1,0 +1,102 @@
+*{
+    margin :0;
+    padding: 0;
+    background-repeat: no-repeat;
+    
+
+}
+.icons
+{
+    width: 46px;
+    top: 7px;
+    position: absolute;
+    margin-left: 9px;
+
+}
+.font{
+    color: #ffffff;
+    font-family: 'Roboto', sans-serif;
+    margin-top: 62px;
+    margin-left: 5px;
+    font-size: 13px;
+    padding: 0;
+    font-weight: revert;
+
+    
+    
+}
+.startmenu
+{
+    transition-property: all;
+	transition-duration: .5s;
+	transition-timing-function: cubic-bezier(0.5, 1, 0.5, 1);
+    margin-left: 210px;
+    width: 507px;
+    position: absolute;
+    
+    bottom: -650px;
+    transition-property: all;
+}
+.recycle
+{
+    position: absolute;
+    width:55px;
+    margin-top: 15px;
+margin-left: 5px;
+
+}
+.font2
+{
+    color: #ffffff;
+    font-family: 'Roboto', sans-serif;
+    margin-top: 68px;
+margin-left: 12px;
+font-size: 13px;
+font-weight: revert`;
+}
+.font1
+{
+    color: #ffffff;
+    font-family: 'Roboto', sans-serif;
+    margin-top: 68px;
+margin-left: 9px;
+font-size: 13px;
+font-weight: revert`;
+}
+.chrome
+{
+    width:81px;
+    position: absolute;
+    margin-top: 16px;
+margin-left: -6px;
+
+}
+body
+{
+    background-image: url('bg.jpeg');
+   background-size: cover;
+
+}
+.right
+{
+    position: absolute;
+    right:0;
+    bottom: 0;
+    top: 1px;
+
+}
+.taskbar
+{
+position: absolute;
+bottom: 0;
+display:flex;
+justify-content: center;
+width: 100%;
+
+background-color:#f3f3f3;
+}
+
+
+
+
+
