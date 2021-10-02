@@ -7,7 +7,7 @@
 }
 .icons
 {
-    width: 46px;
+    width: 50px;
     top: 7px;
     position: absolute;
     margin-left: 9px;
@@ -40,7 +40,7 @@
 .recycle
 {
     position: absolute;
-    width:55px;
+    width:50px;
     margin-top: 15px;
 margin-left: 5px;
 
@@ -52,7 +52,7 @@ margin-left: 5px;
     margin-top: 68px;
 margin-left: 12px;
 font-size: 13px;
-font-weight: revert`;
+font-weight: revert;
 }
 .font1
 {
@@ -61,11 +61,11 @@ font-weight: revert`;
     margin-top: 68px;
 margin-left: 9px;
 font-size: 13px;
-font-weight: revert`;
+font-weight: revert;
 }
 .chrome
 {
-    width:81px;
+    width:50px;
     position: absolute;
     margin-top: 16px;
 margin-left: -6px;
@@ -85,17 +85,29 @@ body
     top: 1px;
 
 }
+
 .taskbar
 {
-position: absolute;
+height: 8vh;
 bottom: 0;
 display:flex;
 justify-content: center;
 width: 100%;
 
-background-color:#f3f3f3;
+background-color:black;
+opacity:0.8;
 }
-
+.bodystyle{
+width:100%;
+height: 92vh;
+}
+.taskicon{
+    height: 30px;
+    padding-top: 5px;
+    margin-top:4px ;
+    margin-left: 1px;
+    margin-right: 18px;
+}
 
 
 
