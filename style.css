@@ -2,8 +2,8 @@
     margin :0;
     padding: 0;
     background-repeat: no-repeat;
-    
-
+// BELOW LINE ADDED FOR HACKTOBERFEST
+    text-decoration: none;
 }
 .icons
 {
@@ -11,7 +11,6 @@
     top: 7px;
     position: absolute;
     margin-left: 9px;
-
 }
 .font{
     color: #ffffff;
@@ -21,9 +20,6 @@
     font-size: 13px;
     padding: 0;
     font-weight: revert;
-
-    
-    
 }
 .startmenu
 {
@@ -83,7 +79,6 @@ body
     right:0;
     bottom: 0;
     top: 1px;
-
 }
 
 .taskbar
